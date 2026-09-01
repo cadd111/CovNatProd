@@ -13,9 +13,9 @@ DOI: [10.1021/acsomega.6c05137](https://doi.org/10.1021/acsomega.6c05137)
 </p>
 
 
-## 01_Docking
+## 01_Molecular_Docking
 Most favorable binding poses obtained from the ensemble covalent docking study.
 
 
-## 02_MD
+## 02_Molecular_Dynamics
 Modified files of the Amber14SB force field designed to recognize covalent adducts with withaferin A (WIT) and ottelione A (OTT). It also includes Coordinate and topology files used for molecular dynamics (MD) simulations.
